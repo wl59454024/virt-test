@@ -1,6 +1,7 @@
 ======================================
 Linux Virtualization Tests (virt-test)
 ======================================
+just test
 
 Really quick start guide
 ------------------------
